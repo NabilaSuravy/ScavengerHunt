@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clues">
+        <item>Clue 0: Found Clue 0</item>
+        <item>Clue 1: Found Clue 1</item>
+        <item>Clue 2: Found Clue 2</item>
+    </string-array>
+</resources>

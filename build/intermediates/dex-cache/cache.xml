@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_e330ed1abfd55b1e4a35ac1784fcadb1fe538b3f.jar" />
+    </item>
+    <item
+        jar="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_353cb1337def1d924e0390735df145f08b65d51c.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\Favorites\Links\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4e7d12f6feb2301858f12949a39be84dc9e6061b.jar" />
+    </item>
+    <item
+        jar="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_a17de61c7d2b865aacb8a6503450c64c41f96080.jar" />
+    </item>
+    <item
+        jar="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1cb1c7dda900537fecf1a00963464d954ff3d485">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0884466c057a4a53d0ef850b0552b7e70599bfed.jar" />
+    </item>
+    <item
+        jar="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d07942ee01fe2ffb15efc86efdcc7b201471260a">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\instant-run_eccd0c801f98b3b70b33e39157009ea1fdca9af2.jar" />
+    </item>
+    <item
+        jar="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_eb4bc4c1877d71b1e9d43c4c45d41bc477dca43c.jar" />
+    </item>
+    <item
+        jar="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_71b2b75d0807cfc1acf28a97818e00f060804532.jar" />
+    </item>
+    <item
+        jar="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\# Computer Science\Android\Udacity_Android\ScavengerHunt\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_1b7f3a098c91ad5b05217af3bfc512d6aeec10eb.jar" />
+    </item>
+
+</items>
